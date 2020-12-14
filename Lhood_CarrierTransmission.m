@@ -34,7 +34,7 @@ end
 % COMPUTE THE PRIOR
 % If the transmission rate is common to all serotypes ...
 if mFlag==1
-    prior=log(exppdf(b(1),100));
+    prior=log(exppdf(b(1),1));
 
 % If the transmission rate varies amongst serotypes ...
 elseif mFlag==2
