@@ -3,6 +3,8 @@ estimation methods in:
 
 Jolles et al. (2020) Endemic persistence of foot-and-mouth disease viruses in their wildlife reservoir. (under review)
 
+DOI for code: 10.5281/zenodo.5121203
+
 MATLAB REQUIREMENTS
 The scripts/functions were run using Matlab version 2019b and require the Statistics and Machine Learning and
 Parallel Computing toolboxes. However, they can be easily adapted to run without the Parallel Computing toolbox
