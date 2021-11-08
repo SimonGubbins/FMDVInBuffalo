@@ -36,12 +36,12 @@ BuffaloTransmissionData.txt - transmission data; columns are:
                               5 - time of last positive PCR result
                               6 - time of first subsequent negative PCR result
 
-CARRIER TRANSMISSION (Supplementary Information S3)
+CARRIER TRANSMISSION (Supplementary Information S4)
 ParEst_CarrierTransmission.m - contains the data, implements the adaptive Metropolis scheme for each
                                model/parameterisation and computes the DIC
 Lhood_CarrierTransmission.m - computes the log likelihood and prior for the input parameters
 
-CARRIER DURATION (Supplementary Information S4)
+CARRIER DURATION (Supplementary Information S5)
 ParEst_CarrierDuration.m - contains the data, implements the adaptive Metropolis scheme for each
                            model/parameterisation and computes the DIC
 Lhood_CarrierDuration.m - computes the log likelihood and prior for the input parameters
