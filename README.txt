@@ -1,8 +1,8 @@
 This folder contains the Matlab scripts and functions, as well the necessary data files, to implement the parameter
 estimation methods in:
 
-Jolles et al. (2020) Endemic persistence of a highly contagious pathogen: foot-and-mouth disease in its wildlife
-reservoir. Science (in press)
+Jolles et al. (2021) Endemic persistence of a highly contagious pathogen: foot-and-mouth disease in its wildlife
+reservoir. Science 374, 104-109 (doi:10.1126/science.abd2475).
 
 DOI for code: 10.5281/zenodo.5121203
 
